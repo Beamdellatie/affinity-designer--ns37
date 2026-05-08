@@ -1,4 +1,4 @@
-
+Enhance Affinity Designer for macOS with updated Brushes for Affinity Designer for macOS - color correction and batch processing, the #1 brush. Includes color correction and batch
 
 
 
